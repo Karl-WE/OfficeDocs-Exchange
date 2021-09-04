@@ -131,7 +131,7 @@ When you use one of these options, you don't need to restart the computer after 
       Install-WindowsFeature Server-Media-Foundation
       ```
 
-   b. Install [Unified Communications Managed API 4.0](https://www.microsoft.com/download/details.aspx?id=34992). This package is available for download and in the \UCMARedist folder on the Exchange Server media.
+   b. Install [Unified Communications Managed API 6.0](https://www.microsoft.com/download/details.aspx?id=57507). This package is available for download and in the \UCMARedist folder on the Exchange Server media.
 
       > [!NOTE]
       > When installing on Windows Server Core, you must use the installation package located in \UCMARedist on distributed media.
